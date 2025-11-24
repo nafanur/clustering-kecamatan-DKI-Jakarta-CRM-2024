@@ -6,6 +6,7 @@ Pengelompokan kecamatan DKI Jakarta pada 3 kategori CRM 2024
 - dengan metode Non-Hierarchical Clustering: K-Means Clustering
   Jumlah cluster: 2 dgn Average Silhouette Coefficient: 0.454
   hasilnya 22 kecamatan di klaster 1 & 22 kecamatan di klaster 2
-# Karakter utama klaster 1: Parkir Liar Tinggi, Arus Lalu Lintas Tinggi, Permasalahan Jalan Sangat Tinggi
-# Karakter utama klaster 2: Parkir Liar Rendah–Sedang, Arus Lalu Lintas Rendah, Permasalahan Jalan Rendah–Sedang
+
+**Karakter utama klaster 1: Parkir Liar Tinggi, Arus Lalu Lintas Tinggi, Permasalahan Jalan Sangat Tinggi**
+**Karakter utama klaster 2: Parkir Liar Rendah–Sedang, Arus Lalu Lintas Rendah, Permasalahan Jalan Rendah–Sedang**
 
